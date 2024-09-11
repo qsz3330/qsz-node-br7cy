@@ -1,0 +1,24 @@
+{
+    "name": "@qsz3330/qsz-node-br7cy",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/qsz3330/qsz-node-br7cy.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "qsz3330",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qsz3330/qsz-node-br7cy/issues"
+    },
+    "homepage": "https://github.com/qsz3330/qsz-node-br7cy#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@qsz3330/qsz-node-br7cy": "^1.0.0"
+    }
+}
